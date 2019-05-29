@@ -6,7 +6,9 @@ package com.garry;
  * @Created Date: 10:50 17/10/12.
  * @Modify by:
  */
+
 public class InputSource {
+
     private Object data;
     private long id;
 

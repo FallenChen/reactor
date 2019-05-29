@@ -5,7 +5,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * @Author: feiweiwei
- * @Description:
+ * @Description: reactor的事件接收类，负责初始化selector和接收缓冲队列
  * @Created Date: 13:36 17/10/12.
  * @Modify by:
  */

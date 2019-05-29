@@ -2,11 +2,12 @@ package com.garry;
 
 /**
  * @Author: feiweiwei
- * @Description: reactor模式中内部处理的event类
+ * @Description: reactor模式中内部处理的event类,reactor模型处理的都是event事件对象
  * @Created Date: 11:03 17/10/12.
  * @Modify by:
  */
 public class Event {
+
     private InputSource source;
     private EventType type;
 
